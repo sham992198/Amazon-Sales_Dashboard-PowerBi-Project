@@ -48,7 +48,7 @@ Amazon Sales Dashboard
 
 ## 📄 Project Report
 You can also view the complete project documentation here:  
-[📘 Download Report (PDF)]()
+[📘 Download Report (PDF)](https://github.com/sham992198/Amazon-Sales_Dashboard-PowerBi-Project/blob/main/Amazon_Sales_Dashboard_Report_Sham_Kolekar.pdf)
 
 ---
 
