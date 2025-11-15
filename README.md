@@ -9,15 +9,16 @@ To track courier delivery status and fulfillment performance.
 To identify top-selling categories and regional sales leaders.
 To enable data-driven decision-making through interactive slicers and KPIs.
 ### 🧩 Dashboard Features
-Feature	Description
-Total Sales KPI	Displays cumulative sales amount of $78.5M
-Date Slicer	Filters data dynamically between time ranges
-Courier Status	Pie chart showing Shipped, On the Way, Unshipped, and Cancelled
-Top 5 Categories	Highlights best-selling categories like T-shirts, Trousers, Wallets, etc.
-Fulfillment Analysis	Compares Amazon vs Merchant fulfillment performance
-Delivery Partner	Visualizes performance of delivery partners such as Ekart and Easy Ship
-Ship-State Breakdown	Shows count of shipments by Indian states
-Size Distribution	Analyzes product size preferences (M, XL, XXL, etc.)
+| Feature              | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| Total Sales KPI      | Displays cumulative sales amount of $78.5M                                  |
+| Date Slicer          | Filters data dynamically between time ranges                                |
+| Courier Status       | Pie chart showing Shipped, On the Way, Unshipped, and Cancelled             |
+| Top 5 Categories     | Highlights best-selling categories like T-shirts, Trousers, Wallets, etc.   |
+| Fulfillment Analysis | Compares Amazon vs Merchant fulfillment performance                         |
+| Delivery Partner     | Visualizes performance of delivery partners such as Ekart and Easy Ship     |
+| Ship-State Breakdown | Shows count of shipments by Indian states                                   |
+| Size Distribution    | Analyzes product size preferences (M, XL, XXL, etc.)                         |
 ### 📊 Tools & Technologies Used
 Power BI Desktop
 Microsoft Excel (data source)
