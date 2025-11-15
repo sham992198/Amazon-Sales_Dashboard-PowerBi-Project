@@ -39,3 +39,18 @@ Implement real-time data refresh using Power BI Service.
 Include drill-through pages for deeper product-level analysis.
 📸 Dashboard Snapshot
 Amazon Sales Dashboard
+## 👤 Author
+**Sham Kolekar**  
+📅 *November 2025*  
+🔗 [LinkedIn](https://www.linkedin.com/in/sham-kolekar-4401b3317/) *(Add your LinkedIn URL here)*  
+
+---
+
+## 📄 Project Report
+You can also view the complete project documentation here:  
+[📘 Download Report (PDF)]()
+
+---
+
+### 🏷️ Tags
+`#PowerBI` `#DataAnalytics` `#Dashboard` `#BusinessIntelligence` `#PortfolioProject`
